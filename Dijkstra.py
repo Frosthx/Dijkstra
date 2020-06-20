@@ -1,4 +1,6 @@
 def dijkstra(graph, src, end):
+    if graph == None:
+        return None
     
 
 
